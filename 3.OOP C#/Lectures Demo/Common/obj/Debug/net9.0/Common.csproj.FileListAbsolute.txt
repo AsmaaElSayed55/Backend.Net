@@ -1,0 +1,11 @@
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Common\bin\Debug\net9.0\Common.deps.json
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Common\bin\Debug\net9.0\Common.dll
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Common\bin\Debug\net9.0\Common.pdb
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Common\obj\Debug\net9.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Common\obj\Debug\net9.0\Common.AssemblyInfoInputs.cache
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Common\obj\Debug\net9.0\Common.AssemblyInfo.cs
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Common\obj\Debug\net9.0\Common.csproj.CoreCompileInputs.cache
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Common\obj\Debug\net9.0\Common.dll
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Common\obj\Debug\net9.0\refint\Common.dll
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Common\obj\Debug\net9.0\Common.pdb
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Common\obj\Debug\net9.0\ref\Common.dll
