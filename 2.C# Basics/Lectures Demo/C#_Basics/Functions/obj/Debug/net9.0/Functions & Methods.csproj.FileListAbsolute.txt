@@ -1,0 +1,15 @@
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Functions\bin\Debug\net9.0\Functions & Methods.exe
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Functions\bin\Debug\net9.0\Functions & Methods.deps.json
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Functions\bin\Debug\net9.0\Functions & Methods.runtimeconfig.json
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Functions\bin\Debug\net9.0\Functions & Methods.dll
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Functions\bin\Debug\net9.0\Functions & Methods.pdb
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Functions\obj\Debug\net9.0\Functions & Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Functions\obj\Debug\net9.0\Functions & Methods.AssemblyInfoInputs.cache
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Functions\obj\Debug\net9.0\Functions & Methods.AssemblyInfo.cs
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Functions\obj\Debug\net9.0\Functions & Methods.csproj.CoreCompileInputs.cache
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Functions\obj\Debug\net9.0\Functions & Methods.sourcelink.json
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Functions\obj\Debug\net9.0\Functions & Methods.dll
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Functions\obj\Debug\net9.0\refint\Functions & Methods.dll
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Functions\obj\Debug\net9.0\Functions & Methods.pdb
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Functions\obj\Debug\net9.0\Functions & Methods.genruntimeconfig.cache
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Functions\obj\Debug\net9.0\ref\Functions & Methods.dll

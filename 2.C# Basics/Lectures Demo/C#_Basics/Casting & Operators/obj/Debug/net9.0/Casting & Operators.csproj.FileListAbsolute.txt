@@ -1,0 +1,15 @@
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Casting & Operators\bin\Debug\net9.0\Casting & Operators.exe
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Casting & Operators\bin\Debug\net9.0\Casting & Operators.deps.json
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Casting & Operators\bin\Debug\net9.0\Casting & Operators.runtimeconfig.json
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Casting & Operators\bin\Debug\net9.0\Casting & Operators.dll
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Casting & Operators\bin\Debug\net9.0\Casting & Operators.pdb
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Casting & Operators\obj\Debug\net9.0\Casting & Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Casting & Operators\obj\Debug\net9.0\Casting & Operators.AssemblyInfoInputs.cache
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Casting & Operators\obj\Debug\net9.0\Casting & Operators.AssemblyInfo.cs
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Casting & Operators\obj\Debug\net9.0\Casting & Operators.csproj.CoreCompileInputs.cache
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Casting & Operators\obj\Debug\net9.0\Casting & Operators.sourcelink.json
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Casting & Operators\obj\Debug\net9.0\Casting & Operators.dll
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Casting & Operators\obj\Debug\net9.0\refint\Casting & Operators.dll
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Casting & Operators\obj\Debug\net9.0\Casting & Operators.pdb
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Casting & Operators\obj\Debug\net9.0\Casting & Operators.genruntimeconfig.cache
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Casting & Operators\obj\Debug\net9.0\ref\Casting & Operators.dll

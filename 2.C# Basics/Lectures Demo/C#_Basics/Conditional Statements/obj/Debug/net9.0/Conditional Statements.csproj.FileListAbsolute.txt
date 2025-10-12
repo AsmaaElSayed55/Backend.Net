@@ -1,0 +1,15 @@
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Conditional Statements\bin\Debug\net9.0\Conditional Statements.exe
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Conditional Statements\bin\Debug\net9.0\Conditional Statements.deps.json
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Conditional Statements\bin\Debug\net9.0\Conditional Statements.runtimeconfig.json
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Conditional Statements\bin\Debug\net9.0\Conditional Statements.dll
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Conditional Statements\bin\Debug\net9.0\Conditional Statements.pdb
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Conditional Statements\obj\Debug\net9.0\Conditional Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Conditional Statements\obj\Debug\net9.0\Conditional Statements.AssemblyInfoInputs.cache
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Conditional Statements\obj\Debug\net9.0\Conditional Statements.AssemblyInfo.cs
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Conditional Statements\obj\Debug\net9.0\Conditional Statements.csproj.CoreCompileInputs.cache
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Conditional Statements\obj\Debug\net9.0\Conditional Statements.sourcelink.json
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Conditional Statements\obj\Debug\net9.0\Conditional Statements.dll
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Conditional Statements\obj\Debug\net9.0\refint\Conditional Statements.dll
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Conditional Statements\obj\Debug\net9.0\Conditional Statements.pdb
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Conditional Statements\obj\Debug\net9.0\Conditional Statements.genruntimeconfig.cache
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Conditional Statements\obj\Debug\net9.0\ref\Conditional Statements.dll

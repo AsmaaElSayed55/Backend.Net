@@ -1,0 +1,15 @@
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Intro_To_C-Sharp\bin\Debug\net9.0\Intro_To_C-Sharp.exe
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Intro_To_C-Sharp\bin\Debug\net9.0\Intro_To_C-Sharp.deps.json
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Intro_To_C-Sharp\bin\Debug\net9.0\Intro_To_C-Sharp.runtimeconfig.json
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Intro_To_C-Sharp\bin\Debug\net9.0\Intro_To_C-Sharp.dll
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Intro_To_C-Sharp\bin\Debug\net9.0\Intro_To_C-Sharp.pdb
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Intro_To_C-Sharp\obj\Debug\net9.0\Intro_To_C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Intro_To_C-Sharp\obj\Debug\net9.0\Intro_To_C-Sharp.AssemblyInfoInputs.cache
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Intro_To_C-Sharp\obj\Debug\net9.0\Intro_To_C-Sharp.AssemblyInfo.cs
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Intro_To_C-Sharp\obj\Debug\net9.0\Intro_To_C-Sharp.csproj.CoreCompileInputs.cache
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Intro_To_C-Sharp\obj\Debug\net9.0\Intro_To_C-Sharp.sourcelink.json
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Intro_To_C-Sharp\obj\Debug\net9.0\Intro_To_C-Sharp.dll
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Intro_To_C-Sharp\obj\Debug\net9.0\refint\Intro_To_C-Sharp.dll
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Intro_To_C-Sharp\obj\Debug\net9.0\Intro_To_C-Sharp.pdb
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Intro_To_C-Sharp\obj\Debug\net9.0\Intro_To_C-Sharp.genruntimeconfig.cache
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Intro_To_C-Sharp\obj\Debug\net9.0\ref\Intro_To_C-Sharp.dll

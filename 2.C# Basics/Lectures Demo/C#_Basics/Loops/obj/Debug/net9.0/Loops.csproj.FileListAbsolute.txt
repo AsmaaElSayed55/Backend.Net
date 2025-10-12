@@ -1,0 +1,15 @@
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Loops\bin\Debug\net9.0\Loops.exe
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Loops\bin\Debug\net9.0\Loops.deps.json
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Loops\bin\Debug\net9.0\Loops.runtimeconfig.json
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Loops\bin\Debug\net9.0\Loops.dll
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Loops\bin\Debug\net9.0\Loops.pdb
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Loops\obj\Debug\net9.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Loops\obj\Debug\net9.0\Loops.AssemblyInfoInputs.cache
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Loops\obj\Debug\net9.0\Loops.AssemblyInfo.cs
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Loops\obj\Debug\net9.0\Loops.csproj.CoreCompileInputs.cache
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Loops\obj\Debug\net9.0\Loops.sourcelink.json
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Loops\obj\Debug\net9.0\Loops.dll
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Loops\obj\Debug\net9.0\refint\Loops.dll
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Loops\obj\Debug\net9.0\Loops.pdb
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Loops\obj\Debug\net9.0\Loops.genruntimeconfig.cache
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Loops\obj\Debug\net9.0\ref\Loops.dll

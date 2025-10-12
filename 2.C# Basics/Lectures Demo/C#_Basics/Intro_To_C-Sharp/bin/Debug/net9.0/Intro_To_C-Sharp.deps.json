@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Intro_To_C-Sharp/1.0.0": {
+        "runtime": {
+          "Intro_To_C-Sharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Intro_To_C-Sharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

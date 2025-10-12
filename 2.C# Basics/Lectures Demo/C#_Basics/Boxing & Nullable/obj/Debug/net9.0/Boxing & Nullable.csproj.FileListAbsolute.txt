@@ -1,0 +1,15 @@
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Boxing & Nullable\bin\Debug\net9.0\Boxing & Nullable.exe
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Boxing & Nullable\bin\Debug\net9.0\Boxing & Nullable.deps.json
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Boxing & Nullable\bin\Debug\net9.0\Boxing & Nullable.runtimeconfig.json
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Boxing & Nullable\bin\Debug\net9.0\Boxing & Nullable.dll
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Boxing & Nullable\bin\Debug\net9.0\Boxing & Nullable.pdb
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Boxing & Nullable\obj\Debug\net9.0\Boxing & Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Boxing & Nullable\obj\Debug\net9.0\Boxing & Nullable.AssemblyInfoInputs.cache
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Boxing & Nullable\obj\Debug\net9.0\Boxing & Nullable.AssemblyInfo.cs
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Boxing & Nullable\obj\Debug\net9.0\Boxing & Nullable.csproj.CoreCompileInputs.cache
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Boxing & Nullable\obj\Debug\net9.0\Boxing & Nullable.sourcelink.json
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Boxing & Nullable\obj\Debug\net9.0\Boxing & Nullable.dll
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Boxing & Nullable\obj\Debug\net9.0\refint\Boxing & Nullable.dll
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Boxing & Nullable\obj\Debug\net9.0\Boxing & Nullable.pdb
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Boxing & Nullable\obj\Debug\net9.0\Boxing & Nullable.genruntimeconfig.cache
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Boxing & Nullable\obj\Debug\net9.0\ref\Boxing & Nullable.dll

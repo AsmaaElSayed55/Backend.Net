@@ -1,0 +1,15 @@
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Strings & Dates\bin\Debug\net9.0\Strings & Dates.exe
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Strings & Dates\bin\Debug\net9.0\Strings & Dates.deps.json
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Strings & Dates\bin\Debug\net9.0\Strings & Dates.runtimeconfig.json
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Strings & Dates\bin\Debug\net9.0\Strings & Dates.dll
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Strings & Dates\bin\Debug\net9.0\Strings & Dates.pdb
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Strings & Dates\obj\Debug\net9.0\Strings & Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Strings & Dates\obj\Debug\net9.0\Strings & Dates.AssemblyInfoInputs.cache
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Strings & Dates\obj\Debug\net9.0\Strings & Dates.AssemblyInfo.cs
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Strings & Dates\obj\Debug\net9.0\Strings & Dates.csproj.CoreCompileInputs.cache
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Strings & Dates\obj\Debug\net9.0\Strings & Dates.sourcelink.json
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Strings & Dates\obj\Debug\net9.0\Strings & Dates.dll
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Strings & Dates\obj\Debug\net9.0\refint\Strings & Dates.dll
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Strings & Dates\obj\Debug\net9.0\Strings & Dates.pdb
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Strings & Dates\obj\Debug\net9.0\Strings & Dates.genruntimeconfig.cache
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Strings & Dates\obj\Debug\net9.0\ref\Strings & Dates.dll

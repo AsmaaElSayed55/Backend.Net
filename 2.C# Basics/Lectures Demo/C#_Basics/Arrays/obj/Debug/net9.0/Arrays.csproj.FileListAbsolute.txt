@@ -1,0 +1,15 @@
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Arrays\bin\Debug\net9.0\Arrays.exe
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Arrays\bin\Debug\net9.0\Arrays.deps.json
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Arrays\bin\Debug\net9.0\Arrays.runtimeconfig.json
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Arrays\bin\Debug\net9.0\Arrays.dll
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Arrays\bin\Debug\net9.0\Arrays.pdb
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Arrays\obj\Debug\net9.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Arrays\obj\Debug\net9.0\Arrays.AssemblyInfoInputs.cache
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Arrays\obj\Debug\net9.0\Arrays.AssemblyInfo.cs
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Arrays\obj\Debug\net9.0\Arrays.csproj.CoreCompileInputs.cache
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Arrays\obj\Debug\net9.0\Arrays.sourcelink.json
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Arrays\obj\Debug\net9.0\Arrays.dll
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Arrays\obj\Debug\net9.0\refint\Arrays.dll
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Arrays\obj\Debug\net9.0\Arrays.pdb
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Arrays\obj\Debug\net9.0\Arrays.genruntimeconfig.cache
+C:\D\Backend.Net\2.C# Basics\Lectures Demo\C#_Basics\Arrays\obj\Debug\net9.0\ref\Arrays.dll
