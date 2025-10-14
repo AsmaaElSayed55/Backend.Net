@@ -40,10 +40,17 @@
             // int age = null; // Wrong 
             Nullable<int> Age; // Base Syntax
             int? age = null; // Syntax Suger // ? --> Nullable Operator
+
+            Nullable<int> nullable_variable = null;
+
             Console.WriteLine((age is not null) ? age : 0);
             Console.WriteLine((age.HasValue) ? age : 0);
 
             double? Salary; // Allow double values + Null
+
+            double? num1 = 150;
+            double? num2 = 200;
+            double Total = (num1 + num2) ?? 0; // put 0 in total if sum of num1 and num2 is null
 
             int x = 10;
             int? y = x; // Okay // It Allow int Values + Null
@@ -74,6 +81,9 @@
             // Just For Compiler Enhancements
             string s2 = null!; // Null Forgiveness Operators
                                // is equal to string? s1 = null;
+
+            string message = "Hi I'am Asmaa";
+            string Resualt = message ?? "No New Message";
 
             #endregion
 
@@ -141,6 +151,7 @@
             #endregion
 
             #endregion
+
         }
     }
 }

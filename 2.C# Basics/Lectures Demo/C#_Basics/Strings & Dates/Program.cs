@@ -158,21 +158,65 @@ namespace Strings_And_Dates
             #endregion
 
 
-            #region String Interpolation
-
-            #endregion
-
-
             #region DateTime
+
+            DateTime myDate = DateTime.Now;
+            Console.WriteLine(myDate);
+
+            string FormatDate = string.Format("Date is {0:yyyy MMMM dddd }", myDate); // Date is 2025 October Tuesday
+                                                                                      // yyyy --> Year 
+                                                                                      // yy  --> last 2 digits in yaer
+                                                                                      // MM  --> Number of month 
+                                                                                      // MMMM  --> Name of Month
+                                                                                      // dd --> Number of Day
+                                                                                      // Name of Day
+            Console.WriteLine(FormatDate);
+
+            DateTime date = new DateTime(2025, 10, 14);
+
+            Console.WriteLine(myDate.Year);
+            Console.WriteLine(myDate.Month);
+            Console.WriteLine(myDate.Day);
+            Console.WriteLine(myDate.Hour);
+            Console.WriteLine(myDate.Minute);
+            Console.WriteLine(myDate.Second);
+            Console.WriteLine(myDate.Millisecond);
 
             #endregion
 
 
             #region DateOnly & TimeOnly
 
+            DateOnly dateOnly = new DateOnly(2025, 11, 04);
+            Console.WriteLine(dateOnly);
+            Console.WriteLine(dateOnly.Year);
+            Console.WriteLine(dateOnly.Month);
+            Console.WriteLine(dateOnly.Day);
+
+
+            TimeOnly timeOnly = new TimeOnly(8, 30);
+            Console.WriteLine(timeOnly);
+
+            TimeOnly timeOnlyPM = new TimeOnly(20, 30);
+            Console.WriteLine(timeOnlyPM);
+
             #endregion
 
 
+            #region Task
+
+            // 1. Take input from user and get day name of your birthday
+
+            Console.WriteLine("Enter Date");
+            DateOnly birthday = DateOnly.Parse(Console.ReadLine());
+
+            Console.WriteLine(birthday.DayOfWeek);
+
+            // 2. display birthday in this format : Saturday of Month March Year 2022
+
+            Console.WriteLine($"{birthday.DayOfWeek} of Month {birthday.Month} Year {birthday.Year}");
+
+            #endregion
         }
     }
 }

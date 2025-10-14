@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\D\\Backend.Net\\2.C# Basics\\Lectures Demo\\C#_Basics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED6583BA-F9C2-4172-882C-EAA1545073D7}|Boxing \u0026 Nullable\\Boxing \u0026 Nullable.csproj|c:\\d\\backend.net\\2.c# basics\\lectures demo\\c#_basics\\boxing \u0026 nullable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED6583BA-F9C2-4172-882C-EAA1545073D7}|Boxing \u0026 Nullable\\Boxing \u0026 Nullable.csproj|solutionrelative:boxing \u0026 nullable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C5636B3-33E5-4FB8-AAFF-A001EA84180A}|Strings \u0026 Dates\\Strings \u0026 Dates.csproj|c:\\d\\backend.net\\2.c# basics\\lectures demo\\c#_basics\\strings \u0026 dates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5636B3-33E5-4FB8-AAFF-A001EA84180A}|Strings \u0026 Dates\\Strings \u0026 Dates.csproj|solutionrelative:strings \u0026 dates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\D\\Backend.Net\\2.C# Basics\\Lectures Demo\\C#_Basics\\Boxing \u0026 Nullable\\Program.cs",
-              "RelativeDocumentMoniker": "Boxing \u0026 Nullable\\Program.cs",
-              "ToolTip": "C:\\D\\Backend.Net\\2.C# Basics\\Lectures Demo\\C#_Basics\\Boxing \u0026 Nullable\\Program.cs",
-              "RelativeToolTip": "Boxing \u0026 Nullable\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCQAAAAWAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\D\\Backend.Net\\2.C# Basics\\Lectures Demo\\C#_Basics\\Strings \u0026 Dates\\Program.cs",
+              "RelativeDocumentMoniker": "Strings \u0026 Dates\\Program.cs",
+              "ToolTip": "C:\\D\\Backend.Net\\2.C# Basics\\Lectures Demo\\C#_Basics\\Strings \u0026 Dates\\Program.cs",
+              "RelativeToolTip": "Strings \u0026 Dates\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T09:48:24.143Z",
+              "WhenOpened": "2025-10-14T15:56:25.968Z",
               "EditorCaption": ""
             }
           ]
