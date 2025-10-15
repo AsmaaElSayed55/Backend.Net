@@ -121,7 +121,9 @@
             //    Console.WriteLine();
             //}
 
-            #endregion
+            #endregion 
+
+
 
             #region Base Way
             int.TryParse(Console.ReadLine(), out int rows);
@@ -145,6 +147,42 @@
 
             #endregion
 
+            #region Ranges and Indices
+
+            var Cities = new string[]
+            {
+                "Cairo", // 0 - 6
+                "Gaza",  // 1 - 5
+                "Alexandria", // 2 - 4
+                "Krakow",  // 3 - 3
+                "London",  // 4 - 2
+                "Ram Allah"  // 5 - 1
+            };
+
+            Console.WriteLine(Cities[2]); // Second Element from Left
+
+            Console.WriteLine(Cities[^2]); // Second Element from Right 
+
+            var Copy1_Cities = Cities;
+            foreach (var city in Copy1_Cities)
+            {
+                Console.WriteLine(city);
+            }
+
+            var Copy2_Cities = Cities[0..2]; // Copy Elements from 0 to 2-1 from Left
+            foreach(var city in Copy2_Cities)
+            {
+                Console.WriteLine(city); 
+            }
+
+            var Copy3_Cities= Cities[^5..^2];// Copy Elements from 0 to 2-1 from Right
+            foreach (var city in Copy3_Cities)
+            {
+                Console.WriteLine(city);
+            }
+
+            #endregion
+
             #region Array Methods
 
             int[] Arr1 = [1, 2, 3, 4, 5, 6];
@@ -154,12 +192,6 @@
                 int.TryParse(Console.ReadLine(), out Arr2[i]);
 
             #region Class Mamber Methods
-
-            // Sort
-            Array.Sort(Arr2);
-            foreach (int i in Arr2)
-                Console.Write(i + " ");
-            Console.WriteLine();
 
             // Copy
             int[] temp1 = new int[Arr1.Length];
@@ -189,9 +221,59 @@
 
             #endregion
 
+            #region Sort Array
+
+            #region Bubble Sort
+            int[] array = { 9, 1, 8, 7, 2, 4, 5, 3, 7, 8 };
+
+            Console.WriteLine("Before Sorting");
+            foreach (int i in array)
+                Console.Write(i + " ");
+
+            Console.WriteLine();
+
+            Console.WriteLine("Starting Sort Process");
+            for (int i = 0; i < array.Length - 1; i++)
+            {
+                int swap = 0;
+                for (int j = 0; j < array.Length - 1; j++)
+                {
+                    if (array[j] > array[j + 1])
+                    {
+                        swap = array[j + 1];
+                        array[j + 1] = array[j];
+                        array[j] = swap;
+                    }
+                }
+            }
+
+            Console.WriteLine();
+
+            Console.WriteLine("After Sorting");
+            foreach (int i in array)
+                Console.Write(i + " ");
+
+            #endregion
+
+            // Sort
+
+            #region Sort Built-in Function
+
+            Array.Sort(Arr2);
+            foreach (int i in Arr2)
+                Console.Write(i + " ");
+            Console.WriteLine(); 
+
             #endregion
 
             #endregion
+
+            #endregion
+
+            #endregion
+
+
+
         }
     }
 }
