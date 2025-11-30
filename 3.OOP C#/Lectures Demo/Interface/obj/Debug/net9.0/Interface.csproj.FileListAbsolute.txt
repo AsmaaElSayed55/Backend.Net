@@ -1,0 +1,15 @@
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Interface\bin\Debug\net9.0\Interface.exe
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Interface\bin\Debug\net9.0\Interface.deps.json
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Interface\bin\Debug\net9.0\Interface.runtimeconfig.json
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Interface\bin\Debug\net9.0\Interface.dll
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Interface\bin\Debug\net9.0\Interface.pdb
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Interface\obj\Debug\net9.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Interface\obj\Debug\net9.0\Interface.AssemblyInfoInputs.cache
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Interface\obj\Debug\net9.0\Interface.AssemblyInfo.cs
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Interface\obj\Debug\net9.0\Interface.csproj.CoreCompileInputs.cache
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Interface\obj\Debug\net9.0\Interface.dll
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Interface\obj\Debug\net9.0\refint\Interface.dll
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Interface\obj\Debug\net9.0\Interface.pdb
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Interface\obj\Debug\net9.0\Interface.genruntimeconfig.cache
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Interface\obj\Debug\net9.0\ref\Interface.dll
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Interface\obj\Debug\net9.0\Interface.sourcelink.json

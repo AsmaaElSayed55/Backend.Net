@@ -1,0 +1,14 @@
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Encapsulation\bin\Debug\net9.0\Encapsulation.exe
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Encapsulation\bin\Debug\net9.0\Encapsulation.deps.json
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Encapsulation\bin\Debug\net9.0\Encapsulation.runtimeconfig.json
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Encapsulation\bin\Debug\net9.0\Encapsulation.dll
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Encapsulation\bin\Debug\net9.0\Encapsulation.pdb
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Encapsulation\obj\Debug\net9.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Encapsulation\obj\Debug\net9.0\Encapsulation.AssemblyInfoInputs.cache
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Encapsulation\obj\Debug\net9.0\Encapsulation.AssemblyInfo.cs
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Encapsulation\obj\Debug\net9.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Encapsulation\obj\Debug\net9.0\Encapsulation.dll
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Encapsulation\obj\Debug\net9.0\refint\Encapsulation.dll
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Encapsulation\obj\Debug\net9.0\Encapsulation.pdb
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Encapsulation\obj\Debug\net9.0\Encapsulation.genruntimeconfig.cache
+C:\D\Backend.Net\3.OOP C#\Lectures Demo\Encapsulation\obj\Debug\net9.0\ref\Encapsulation.dll

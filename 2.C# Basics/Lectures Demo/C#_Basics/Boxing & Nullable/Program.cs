@@ -77,6 +77,7 @@
             #region Nullable Reference Type
 
             string s = null;
+            string str; str = null;
             string? s1 = null; // C# 8 // string nullable
             // Just For Compiler Enhancements
             string s2 = null!; // Null Forgiveness Operators

@@ -139,12 +139,12 @@ namespace Intro_To_C_Sharp
             // Sorted in Stack 
             int X = 4; // CLR Will Allocate 4 Uninitialized Bytes in Stack
             Int32 Y = 10;
-            Console.WriteLine(X);
-            Console.WriteLine(Y);
+            Console.WriteLine(X); // 4
+            Console.WriteLine(Y); // 10
             X = Y;
-            Console.WriteLine(X);
-            Console.WriteLine(Y);
-
+            Console.WriteLine(X); // 10
+            Console.WriteLine(Y); // 10
+             
             // Built in Data Types
 
             // integer numbers
@@ -165,11 +165,13 @@ namespace Intro_To_C_Sharp
             #endregion
 
             #region Reference Type Data Types
-            // its reference is sorted in Heap
-            // its Value is sorted in Stack
+            // its reference is sorted in Stack
+            // its Value is sorted in Heap
 
             point p1; // Declare for Reference of Type Point P1 Referencing to null
-                      // 4 Bytes Allocated in Stack for Pointer | Reference 
+                      // 4 Bytes Allocated in Stack for Pointer | Reference
+                      //        |
+                      //        |--> because it has 2 properties X and Y from int Data Type
                       // 0 Bytes Allocated in Heap
 
             p1 = new point(); // Allocate Required Bytes at Heap
@@ -196,6 +198,9 @@ namespace Intro_To_C_Sharp
              3- GetHashCode()
              4- 
              */
+
+            int Asmaa = new int();
+            Asmaa = 10; 
 
             #region To_String()
             point p3 = new point() { x = 10, y = 20 };

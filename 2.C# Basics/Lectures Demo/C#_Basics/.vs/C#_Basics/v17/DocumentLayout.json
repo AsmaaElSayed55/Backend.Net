@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\D\\Backend.Net\\2.C# Basics\\Lectures Demo\\C#_Basics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD68FBDC-A3C8-46DD-BE99-DB82D5829265}|Arrays\\Arrays.csproj|c:\\d\\backend.net\\2.c# basics\\lectures demo\\c#_basics\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD68FBDC-A3C8-46DD-BE99-DB82D5829265}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED6583BA-F9C2-4172-882C-EAA1545073D7}|Boxing \u0026 Nullable\\Boxing \u0026 Nullable.csproj|c:\\d\\backend.net\\2.c# basics\\lectures demo\\c#_basics\\boxing \u0026 nullable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6583BA-F9C2-4172-882C-EAA1545073D7}|Boxing \u0026 Nullable\\Boxing \u0026 Nullable.csproj|solutionrelative:boxing \u0026 nullable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E046442-E3DE-4277-AC47-9EABAA8BB06E}|Intro_To_C-Sharp\\Intro_To_C-Sharp.csproj|c:\\d\\backend.net\\2.c# basics\\lectures demo\\c#_basics\\intro_to_c-sharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E046442-E3DE-4277-AC47-9EABAA8BB06E}|Intro_To_C-Sharp\\Intro_To_C-Sharp.csproj|solutionrelative:intro_to_c-sharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\D\\Backend.Net\\2.C# Basics\\Lectures Demo\\C#_Basics\\Arrays\\Program.cs",
-              "RelativeDocumentMoniker": "Arrays\\Program.cs",
-              "ToolTip": "C:\\D\\Backend.Net\\2.C# Basics\\Lectures Demo\\C#_Basics\\Arrays\\Program.cs",
-              "RelativeToolTip": "Arrays\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4BAAAWAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\D\\Backend.Net\\2.C# Basics\\Lectures Demo\\C#_Basics\\Boxing \u0026 Nullable\\Program.cs",
+              "RelativeDocumentMoniker": "Boxing \u0026 Nullable\\Program.cs",
+              "ToolTip": "C:\\D\\Backend.Net\\2.C# Basics\\Lectures Demo\\C#_Basics\\Boxing \u0026 Nullable\\Program.cs",
+              "RelativeToolTip": "Boxing \u0026 Nullable\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwFMAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T08:00:56.697Z",
+              "WhenOpened": "2025-11-04T15:52:55.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\D\\Backend.Net\\2.C# Basics\\Lectures Demo\\C#_Basics\\Intro_To_C-Sharp\\Program.cs",
+              "RelativeDocumentMoniker": "Intro_To_C-Sharp\\Program.cs",
+              "ToolTip": "C:\\D\\Backend.Net\\2.C# Basics\\Lectures Demo\\C#_Basics\\Intro_To_C-Sharp\\Program.cs",
+              "RelativeToolTip": "Intro_To_C-Sharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T20:20:55.34Z",
               "EditorCaption": ""
             }
           ]
